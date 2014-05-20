@@ -1,4 +1,4 @@
-WordPress 'Exclude Pages From Search'
+# WordPress 'Exclude Pages From Search'
 
 ===================================
 
