@@ -1,7 +1,5 @@
 # WordPress 'Exclude Pages From Search'
 
-===================================
-
 Contributors: Sam Berson
 
 Tags: exclude pages from search, exclude pages from wp search, search results, search, exclude all, exclude
